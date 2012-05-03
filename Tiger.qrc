@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Tiger.jpg</file>
+    </qresource>
+</RCC>

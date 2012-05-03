@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Heart.gif</file>
+    </qresource>
+</RCC>

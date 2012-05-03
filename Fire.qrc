@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Fire.png</file>
+    </qresource>
+</RCC>

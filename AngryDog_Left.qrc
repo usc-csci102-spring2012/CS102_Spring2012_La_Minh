@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>AngryDog_Left.jpg</file>
+    </qresource>
+</RCC>
